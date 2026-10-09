@@ -1,0 +1,36 @@
+/* button{
+            color: plum;padding: 10px;
+            font-size: 20px;
+            background-color: greenyellow;
+        }
+h1{
+    color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}  */
+*{
+    margin:2px ;
+    padding: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    border: 2px solid;
+    color: aqua;
+}
+
+#main-heading{
+    color: beige;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+}
+
+/* class selector */
+.student{
+    color: blanchedalmond;
+    padding: 5px;
+    background-color: navy;
+}
+
+.demo p{
+    color: blueviolet;
+}
